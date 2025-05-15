@@ -4,10 +4,10 @@
 ## 📊 Sample Visualizations
 
 ### 📘 Average Word Count by Book Genre  
-![Book Chart](https://drive.google.com/file/d/1iwE_1r_jiW0T8DqMydaOCwJ5fQcGA6qi/view?usp=sharing)
+[📎 View Chart (Google Drive)](https://drive.google.com/file/d/1iwE_1r_jiW0T8DqMydaOCwJ5fQcGA6qi/view?usp=sharing)
 
 ### 🎥 Average Word Count by Movie Genre  
-![Movie Chart](https://drive.google.com/file/d/1adlZV9Xsg_zS-Z-cSBi9FkuTannro0Kd/view?usp=sharing)
+[📎 View Chart (Google Drive)](https://drive.google.com/file/d/1adlZV9Xsg_zS-Z-cSBi9FkuTannro0Kd/view?usp=sharing)
 
 ---
 
@@ -28,7 +28,7 @@ A final report including:
 - Data sources & assumptions
 - Methods & visualizations
 - Analysis & conclusions  
-See: `final_report.pdf`
+📄 See: `final_report.pdf`
 
 ---
 
