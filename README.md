@@ -28,7 +28,7 @@ A final report including:
 - Data sources & assumptions
 - Methods & visualizations
 - Analysis & conclusions  
-📄 See: `final_report.pdf`
+📄 See: `English491DS Final Project (1).pdf`
 
 ---
 
