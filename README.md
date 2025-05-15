@@ -4,10 +4,10 @@
 ## 📊 Sample Visualizations
 
 ### 📘 Average Word Count by Book Genre  
-![Book Chart]([book_genre_word_counts.png](https://drive.google.com/file/d/1iwE_1r_jiW0T8DqMydaOCwJ5fQcGA6qi/view?usp=sharing))
+![Book Chart](https://drive.google.com/file/d/1iwE_1r_jiW0T8DqMydaOCwJ5fQcGA6qi/view?usp=sharing)
 
 ### 🎥 Average Word Count by Movie Genre  
-![Movie Chart]([movie_genre_word_counts.png](https://drive.google.com/file/d/1adlZV9Xsg_zS-Z-cSBi9FkuTannro0Kd/view?usp=sharing))
+![Movie Chart](https://drive.google.com/file/d/1adlZV9Xsg_zS-Z-cSBi9FkuTannro0Kd/view?usp=sharing)
 
 ---
 
